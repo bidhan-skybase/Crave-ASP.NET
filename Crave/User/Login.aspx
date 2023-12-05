@@ -13,19 +13,19 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     
     <section class="book_section layout_padding">
-        <div style="padding-left:25rem">
-        <div class="container">
+        <div style="">
+        <div class="container" style="max-width:600px">
             <div class="heading_containerr">
-                <div class="align-self-end">
+                <div>
                     <asp:Label ID="lblMsg" runat="server"></asp:Label>
                 </div>
-                <h2 >Login</h2>
+                <h2 style="width:fit-content;margin:0 auto">Login</h2>
             </div>
             
-                </div>
-                <div class="col-md-6">
-                    <div class="form-container">
-                        <div class="form-group">
+             
+                <div >
+                    <div class="form-container" style="width:100%;">
+                        <div class="form-group" style="width:100%">
                             <asp:RequiredFieldValidator ID="rfUsername" runat="server" 
                                 ErrorMessage="Username is required" 
                                 Font-Size="Small"
@@ -59,7 +59,7 @@
 
                 </div>
 
-            
+            </div>
         </div>
     </section>
 </asp:Content>
