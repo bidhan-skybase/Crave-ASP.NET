@@ -18,7 +18,7 @@
   <meta name="author" content="" />
   <link rel="shortcut icon" href="../FrontEnd/images/favicon.png" type="">
 
-  <title> Crave </title>
+  <title> Bacano </title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="../FrontEnd/css/bootstrap.css" />
@@ -54,7 +54,7 @@
 
           <div class="hero_area">
     <div class="bg-box">
-      <img src="../FrontEnd/images/hero-bg.jpg" alt="">
+      <img src="../FrontEnd/images/hero.png" alt="">
     </div>
     <!-- header section strats -->
     <header class="header_section">
@@ -62,7 +62,7 @@
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.html">
             <span>
-              Crave
+              Bacano
             </span>
           </a>
 
@@ -89,7 +89,7 @@
               <asp:LinkButton ID="lbRegisterOrProfile" runat="server" CssClass="user_link" 
                   CausesValidation="false"
                   OnClick="lbRegisterOrProfile_Click">
-                  <i class="fa fa-user" aria-hidden="true"></i>
+                  <i class="fa fa-user" aria-hidden="true" c></i>
               </asp:LinkButton>
               <a class="cart_link" href="Cart.aspx">
                 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
@@ -144,7 +144,7 @@
                   <g>
                   </g>
                 </svg>
-                  <span class="badge rounded-pill bg-warning mb-4">
+                  <span class="badge rounded-pill bg-warning mb-4" style="background-color:red">
                       <% Response.Write(Session["cartCount"]); %>
                   </span>
               </a>
@@ -203,10 +203,10 @@
         <div class="col-md-4 footer-col">
           <div class="footer_detail">
             <a href="" class="footer-logo">
-              Feane
+              Bacano
             </a>
             <p>
-              Necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with
+              'Bacano' : Not only a clothing brand, but also a statement.
             </p>
             <div class="footer_social">
               <a href="">

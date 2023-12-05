@@ -12,7 +12,7 @@
         <div class="align-self-end">
             <asp:Label ID="lblMsg" runat="server" Visible="false"></asp:Label>
         </div>
-        <h2>
+        <h2 style="color:#123026">
           Our Menu
         </h2>
       </div>

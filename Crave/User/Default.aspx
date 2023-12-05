@@ -12,7 +12,7 @@
             <asp:Repeater ID="rCategory" runat="server">
                 <ItemTemplate>
                     <div class="col-md-6  ">
-            <div class="box ">
+            <div class="box">
               <div class="img-box">
                   <a href="Menu.aspx?id=<%# Eval("CategoryId") %>">
                       <img src="<%# Crave.Utils.GetImageUrl( Eval("ImageUrl")) %>" alt="">
@@ -102,14 +102,14 @@
       <div class="row">
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="../FrontEnd/images/about-img.png" alt="">
+            <img src="../FrontEnd/images/aboutus.png" alt="">
           </div>
         </div>
         <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
               <h2>
-                We Are Feane
+                We Are Bacano
               </h2>
             </div>
             <p>
@@ -144,17 +144,18 @@
             <div class="box">
               <div class="detail-box">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+                  I'm thoroughly impressed with Bacano's commitment to delivering high-quality products. The shoes I ordered surpassed my expectations in terms of craftsmanship and durability. 
+                    The attention to detail and superior materials used demonstrate Bacano's dedication to providing customers with top-notch products.
                 </p>
                 <h6>
-                  Moana Michell
+                  Reshma Maharjan
                 </h6>
                 <p>
-                  magna aliqua
+                  Reshma Maharjan
                 </p>
               </div>
               <div class="img-box">
-                <img src="../FrontEnd/images/client1.jpg" alt="" class="box-img">
+                <img src="../FrontEnd/images/user1.jpeg" alt="" class="box-img">
               </div>
             </div>
           </div>
@@ -162,17 +163,18 @@
             <div class="box">
               <div class="detail-box">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+                  I am extremely pleased with Bacano's exceptional service in delivering my shoes promptly. The speed and efficiency of the delivery exceeded my expectations, 
+                    making my shopping experience truly enjoyable. Thank you, Bacano, for your swift and reliable service!
                 </p>
                 <h6>
-                  Mike Hamell
+                  Joji
                 </h6>
                 <p>
-                  magna aliqua
+                  Joji
                 </p>
               </div>
               <div class="img-box">
-                <img src="../FrontEnd/images/client2.jpg" alt="" class="box-img">
+                <img src="../FrontEnd/images/user2.jpeg" alt="" class="box-img">
               </div>
             </div>
           </div>

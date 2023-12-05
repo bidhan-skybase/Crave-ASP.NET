@@ -13,18 +13,15 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     
     <section class="book_section layout_padding">
+        <div style="padding-left:25rem">
         <div class="container">
-            <div class="heading_container">
+            <div class="heading_containerr">
                 <div class="align-self-end">
-                    <asp:Label ID="lblMsg" runat="server" h></asp:Label>
+                    <asp:Label ID="lblMsg" runat="server"></asp:Label>
                 </div>
-                <h2>Login</h2>
+                <h2 >Login</h2>
             </div>
-            <div class="row">
-                    <div class="col-md-6">
-                    <div class="form_container">
-                        <img id="userLogin" src="../Images/login.jpeg" al="" class="img-thumbnail"/>
-                    </div>
+            
                 </div>
                 <div class="col-md-6">
                     <div class="form-container">
@@ -55,14 +52,14 @@
 
                         <div class="btn-box">
                             <asp:Button ID="btnLogin" runat="server" Text="Login"
-                                CssClass="btn btn-success rounded-pill pl-4 pr-4 text-white" OnClick="btnLogin_Click"/>
+                                CssClass="btn btn-secondary rounded-pill pl-4 pr-4 text-white" OnClick="btnLogin_Click"/>
                             <span class="pl-3 text-info">New User?<a href="Registration.aspx" class="badge badge-info">Register Here</a></span> 
                         </div>
                     </div>
 
                 </div>
 
-            </div>
+            
         </div>
     </section>
 </asp:Content>

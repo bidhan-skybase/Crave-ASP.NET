@@ -104,7 +104,7 @@
                             </a>
 
                             <a href="index.html">
-                                <img class="img-fluid" src="../assets/images/logo.png" alt="Theme-Logo" />
+                                <img class="img-fluid" src="../FrontEnd/images/logo.png" alt="Theme-Logo" />
                             </a>
                             <a class="mobile-options">
                                 <i class="ti-more"></i>
@@ -127,7 +127,7 @@
 
                                 <li class="user-profile header-notification">
                                     <a href="#!">
-                                        <img src="../assets/images/avatar-4.jpg" class="img-radius" alt="User-Profile-Image">
+                                        <img src="../assets/images/admin.jpeg" class="img-radius" alt="User-Profile-Image">
                                         <span>Admin</span>
                                         <i class="ti-angle-down"></i>
                                     </a>
@@ -238,7 +238,7 @@
 
                         <div class="pcoded-content">
                             <div class="card borderless-card">
-                                <div class="card-block danger-breadcrumb">
+                                <div class="card-block danger-breadcrumb" style="background-color:#123026">
                                     <div class="page-header-breadcrumb">
                                         <ul class="breadcrumb-title">
                                             <li class="breadcrumb-item">

@@ -9,13 +9,12 @@
                 <div class="col-md-7 col-lg-6 ">
                   <div class="detail-box">
                     <h1>
-                      Fast Food Restaurant
+                      Elegance Redefined
                     </h1>
                     <p>
-                      Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente ad mollitia laborum quam quisquam esse error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
-                    </p>
+Indulge in the world of timeless style with our exquisite collection at Bacano. Every stitch tells a story, and every fabric exudes elegance. From casual chic to formal sophistication, our clothing line is designed to complement your unique personality                      </p>
                     <div class="btn-box">
-                      <a href="" class="btn1">
+                      <a href="" class="btn1" style="background-color:black">
                         Order Now
                       </a>
                     </div>
@@ -30,11 +29,10 @@
                 <div class="col-md-7 col-lg-6 ">
                   <div class="detail-box">
                     <h1>
-                      Fast Food Restaurant
+                      Fashion Forward, Always
                     </h1>
                     <p>
-                      Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente ad mollitia laborum quam quisquam esse error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
-                    </p>
+Step into the future of fashion with Bacano. With a curated selection of trendy and comfortable clothing is here to redefine your wardrobe. Stay ahead of the curve with the latest styles, from streetwear essentials to classic ensembles.                    </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
                         Order Now
@@ -51,11 +49,10 @@
                 <div class="col-md-7 col-lg-6 ">
                   <div class="detail-box">
                     <h1>
-                      Fast Food Restaurant
+                      Unleash Your Style Potential
                     </h1>
                     <p>
-                      Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente ad mollitia laborum quam quisquam esse error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
-                    </p>
+At Bacano, we believe your wardrobe should be as unique as you are. Unleash your style potential with our diverse range of clothing that caters to every occasion. Whether you're aiming for casual cool or formal finesse, we have the perfect pieces to express your fashion identity. Explore, experiment, and embrace the art of dressing well.                    </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
                         Order Now
